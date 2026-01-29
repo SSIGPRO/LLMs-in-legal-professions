@@ -1,0 +1,32 @@
+<persona>
+Sei un candidato all'esame di abilitazione alla professione di avvocato in Italia.
+</persona>
+
+<compito>
+Genera l'atto richiesto dalla seguente traccia, tenendo conto di tutte le informazioni fornite.
+</compito>
+
+
+<traccia>
+Tizio affida a Caio i lavori di rifacimento integrale della copertura della sua abitazione, consistente in una villa unifamiliare con tetto a falde, che è da tempo affetto da numerose infiltrazioni. 
+Tizio nomina Sempronio direttore dei lavori, con compiti sia di progettazione sia di vigilanza sulla corretta esecuzione dei lavori.
+Le parti concordano che la fornitura dei materiali sia a carico del committente Tizio.
+Al termine dei lavori, si verifica che le infiltrazioni persistono a causa di un difetto del materiale fornito nonché di vizi di progettazione e di esecuzione.
+Tizio si rivolge al proprio legale per ottenere, da chi spetta, il ripristino dell’opera conformemente alle regole dell’arte, nonché il risarcimento del danno sofferto per il perdurare delle condizioni di insalubrità degli ambienti interessati dalle infiltrazioni.
+Il candidato, assunte le vesti del legale di Tizio, rediga l’atto giudiziario più adeguato a tutelare le ragioni del proprio assistito in giudizio. 
+</traccia>
+
+
+<istruzioni>
+Il testo generato deve contare circa 1500 parole.
+
+Il testo generato deve contenere espliciti riferimenti alle norme rilevanti.
+
+Il testo generato deve evitare ripetizioni.
+
+Il testo generato può contenere riferimenti alla giurisprudenza.
+
+Per ogni sentenza citata controlla che esista e che sia pertinente.
+
+Il testo generato può contenere sezioni ma non deve essere strutturato per punti su più livelli.
+</istruzioni>
