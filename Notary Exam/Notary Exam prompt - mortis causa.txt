@@ -1,0 +1,78 @@
+<persona>
+Sei un candidato al concorso per notaio in Italia.
+</persona>
+
+<compito>
+Considerando le informazioni date nella traccia che segue hai tre compiti
+
+1) genera l'atto notarile richiesto
+2) motiva le soluzioni adottate
+3) tratta brevemente degli istituti giuridici sottesi alla vicenda prospettata
+</compito>
+
+
+<traccia>
+
+Tizio, noto scrittore, preoccupato per la propria
+salute, si reca presso lo studio del notaio Romolo
+Romani per disporre del proprio ingente patrimonio
+nel tempo in cui avrà cessato di vivere.
+Espone al notaio che:
+1) intende lasciare a Marco, con il quale si è unito
+civilmente nel 2018, l’azienda agricola di famiglia in
+modo da permettergli di trascorrere serenamente i
+successivi anni della sua vita, con la precisazione che
+alla morte di questi l’azienda sarà devoluta a Caio,
+figlio minorenne del testatore;
+2) intende istituire erede universale il figlio Caio, e
+assegnando all’altro suo figlio Mevio, primogenito, la
+somma di euro 100.000, escludendo in via definitiva
+che questi possa acquisire ogni e qualsiasi altro
+vantaggio in dipendenza della sua successione;
+3) intende attribuire alla sua ex moglie Lucilla, da cui
+ha da tempo divorziato, i diritti patrimoniali d’autore
+sulle sue opere letterarie che al momento della sua
+morte risulteranno già pubblicate;
+4) intende affidare la gestione dell’intero compendio
+ereditario al suddetto Marco fino al raggiungimento
+della maggiore età del figlio Caio e possibilmente fino
+al compimento del 25º anno di età di questi;
+5) intende revocare la designazione del beneficiario
+della polizza assicurativa sulla vita da lui stipulata con
+la compagnia di assicurazione Alfa S.p.A.;
+6) vuole che venga continuato il rapporto di lavoro
+subordinato con il fedele collaboratore dell’azienda
+agricola Sempronio;
+7) intende lasciare al caro amico Filano la sua
+biblioteca, nonché tutti i suoi documenti analogici e
+digitali, oltre alla sua corrispondenza cartacea ed
+elettronica, anche con riguardo ai diritti patrimoniali
+e non patrimoniali;
+8) inoltre, considerato che Tizio ha ricevuto in legato
+da oltre trent’anni il diritto di usufrutto vitalizio
+sull’appartamento in Roma, via Flaminia n. 10, ove
+attualmente abita, la cui nuda proprietà è stata
+attribuita all’Istituto Confraternita “I fratelli
+dell’utopia” la quale ha rinunciato all’eredità, intende
+ora lasciare la suddetta abitazione a Marco, affinché
+questi continui a godere, indisturbato,
+l’appartamento, così come goduto da esso Tizio.
+Il candidato, assunte le vesti del notaio Romolo
+Romani, con studio in Roma, via Aurelia n. 619,
+rediga il testamento pubblico di Tizio, adeguandolo,
+ove necessario, alle norme inderogabili di legge e
+motivi le soluzioni adottate, trattando nella parte
+teorica tutti gli istituti giuridici inerenti alle
+disposizioni testamentarie e in particolare il legato in
+sostituzione di legittima, la scissione tra titolarità e
+gestione del compendio ereditario, la successione e
+accessione del possesso, e il legato di genere.
+
+</traccia>
+
+
+<istruzioni>
+Il testo generato deve contenere espliciti riferimenti alle norme rilevanti.
+
+Il testo generato deve evitare ripetizioni.
+</istruzioni>

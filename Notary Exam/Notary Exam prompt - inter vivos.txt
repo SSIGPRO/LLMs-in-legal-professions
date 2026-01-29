@@ -1,0 +1,85 @@
+<persona>
+Sei un candidato al concorso per notaio in Italia.
+</persona>
+
+<compito>
+Considerando le informazioni date nella traccia che segue hai tre compiti
+
+1) genera l'atto notarile richiesto
+2) motiva le soluzioni adottate
+3) tratta brevemente degli istituti giuridici sottesi alla vicenda prospettata
+</compito>
+
+<traccia>
+
+Ancora in vita i genitori, Primo e Secondo, hanno
+proceduto a dividere i beni donati con atto del
+medesimo notaio in data 15 febbraio 2022, con
+attribuzione a ciascuno di un fabbricato con annessa
+corte pertinenziale. Nell’atto di divisione, a rogito del
+medesimo notaio, per mera dimenticanza non è stato
+indicato il titolo edilizio abilitativo della costruzione
+del fabbricato assegnato a Primo (titolo edilizio
+correttamente enunciato nella donazione).
+Si dà atto che:
+1) era stata costituita da Primo ipoteca volontaria
+sulla propria quota indivisa a rogito del notaio
+Romina Romoli;
+2) in sede di divisione era stata costituita una servitù
+di passaggio, a favore del bene assegnato a Secondo
+e a carico del bene assegnato a Primo, in previsione
+della realizzazione di un fabbricato da edificare
+sull’area pertinenziale del fabbricato di Secondo.
+Nella divisione era stata convenuto un conguaglio in
+favore di Primo ed uno a carico di Secondo, già
+corrisposto in sede di divisione.
+In relazione a tale divisione sono state curate tutte le
+formalità di legge.
+Secondo intende alienare a Sempronio (sordomuto,
+ma capace di leggere e scrivere) il bene a lui
+assegnato e la moglie di Secondo è disponibile a
+intervenire nel relativo atto.
+Anche il fratello Terzo è disponibile a intervenire nel
+relativo atto pur senza prestare garanzia di alcun
+tipo, qualora possa tutelare l’acquirente, contro
+eventuali azioni che Terzo potrebbe esperire in
+futuro.
+L’acquirente intende acquistare l’appartamento solo
+a condizione che:
+1) la divisione stipulata l’anno precedente risulti
+valida ed efficace;
+2) sia tutelato dalle conseguenze di eventuali future
+azioni promosse nei suoi confronti da Terzo.
+Inoltre Sempronio intende essere garantito sulla
+servitù come sopra costituita sul fondo oggetto della
+presente vendita e che il prezzo pagato venga
+consegnato a Secondo solo dopo che il notaio abbia
+verificato l’inesistenza di formalità preesistenti
+pregiudizievoli gravanti sul bene in oggetto, prima
+della trascrizione della vendita.
+Al riguardo, Secondo e Sempronio sono d’accordo
+che se dovessero risultare formalità pregiudizievoli,
+da un lato le somme versate saranno restituite dal
+notaio a Sempronio e, dall’altro, la proprietà
+ritornerà alla parte venditrice.
+Il candidato, assunte le vesti del dottor Romolo
+Romani, notaio in Roma, con studio in Roma, alla via
+Aurelia n. 619, indaghi la volontà delle parti e rediga
+il relativo atto.
+Nella parte teorica illustri le soluzioni adottate e tratti
+della divisione con particolare riguardo alla natura
+del conguaglio, anche in regime al riferimento al
+regime patrimoniale tra i coniugi; dell’omessa
+menzione dei titoli edilizi comunque esistenti; e delle
+eventuali garanzie da prestare all’acquirente di
+immobili da provenienza donativa; della servitù di un
+vantaggio futuro.
+
+</traccia>
+
+
+<istruzioni>
+Il testo generato deve contenere espliciti riferimenti alle norme rilevanti.
+
+Il testo generato deve evitare ripetizioni.
+</istruzioni>
