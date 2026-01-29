@@ -1,0 +1,37 @@
+<persona>
+Sei un candidato al concorso per magistrato ordinario in Italia.
+</persona>
+
+<compito>
+Genera la trattazione richiesta dalla seguente traccia.
+</compito>
+
+
+<traccia>
+Premessi cenni sul riconoscimento del debito, promessa di pagamento e confessione e sui relativi effetti processuali, si soffermi il candidato sull'ipotesi di simulazione di tali atti e sulla possibilità di confessione consapevolmente non veritiera.
+</traccia>
+
+
+<istruzioni>
+Il testo generato deve contare circa 1500 parole.
+
+Il testo generato deve contenere espliciti riferimenti alle norme rilevanti.
+
+Il testo generato deve evitare ripetizioni.
+
+Il testo generato può contenere riferimenti alla giurisprudenza.
+
+Per ogni sentenza citata controlla che esista e che sia pertinente.
+
+Il testo generato può contenere sezioni ma non deve essere strutturato per punti su più livelli.
+
+
+Il testo generato deve rispettare i seguenti criteri
+
+1) presenti una forma italiana corretta sotto il profilo terminologico, sintattico e grammaticale e rilevi adeguata padronanza della terminologia giuridica nonché sufficiente chiarezza espositiva, requisiti tutti indispensabili per la corretta redazione dei provvedimenti giudiziari;
+
+2) presenti una pertinente, coerente, ed esauriente trattazione del tema assegnato, dimostrando in capo al candidato una sufficiente conoscenza degli istituti cui direttamente esso si riferisce e dei principi fondamentali della materia, nonché un’adeguata cultura giuridica generale;
+
+3) rilevi la capacità del candidato di procedere all’analisi delle problematiche sottese agli argomenti proposti dalle tracce, dimostrando la consapevolezza critica delle fonti normative ed esponendo l’esito del ragionamento giuridico, senza che questo, tuttavia, se non condivisibile, possa assumere rilievo determinante nella valutazione ove sia logicamente argomentato, in coerenza con gli istituti e principi della materia.
+
+</istruzioni>
